@@ -1,0 +1,26 @@
+ID,TYPE,NAME,DESCRIPTION,BALANCE_OPENING,BALANCE_CURRENT,CURRENCY
+1000,ASSET,MAIN,All asset (cash equipment) accounts,0,0,USD
+1100,ASSET,CASH,All the cash assets,0,0,USD
+1101,ASSET,jar,Thai cash money for expenses,0,0,THB
+1200,ASSET,utility,Physical things we need,0,0,USD
+2000,LIABILITY,MAIN,All liability (debt credit) accounts,0,0,USD
+3000,EQUITY,MAIN,All equity (investment) accounts,0,0,USD
+3100,EQUITY,CONTRIBUTION,All internal contributions,0,0,USD
+3101,EQUITY,contribution-nolan,Nolan's contributions,0,0,USD
+3102,EQUITY,contribution-sophie,Sophie's contributions,0,0,USD
+3103,EQUITY,contribution-deniz,Deniz's contributions,0,0,USD
+3104,EQUITY,contribution-axel,Axel's contributions,0,0,USD
+4000,REVENUE,MAIN,All revenue (gain) accounts,0,0,USD
+5000,EXPENSE,MAIN,All expense (loss) accounts,0,0,USD
+5100,EXPENSE,ADMIN,All administrative and utility expenses,0,0,USD
+5200,EXPENSE,FOOD,All food expenses,0,0,USD
+5201,EXPENSE,food-shared ,Food expenses when all here,0,0,THB
+5202,EXPENSE,food-shared-A-N,Food expenses equally split for Axel and Nolan,0,0,THB
+5300,EXPENSE,ACCOMODATION,All accomodation expenses,0,0,USD
+5301,EXPENSE,accomodation-shared,A place for all of us to live in,0,0,USD
+5302,EXPENSE,accomodation-nolan,Nolan's accomodation expenses,0,0,USD
+5303,EXPENSE,accomodation-axel,Axel's accomodation expenses,0,0,USD
+5304,EXPENSE,accomodation-defy,Deniz's and Sophie's accomodation expenses,0,0,USD
+5900,EXPENSE,MISCEALLOUS,Any other expenses,0,0,USD
+5901,EXPENSE,weed-shared,Weed expenses when all here,0,0,THB
+5902,EXPENSE,weed-shared-A-N,Weed expenses equally split for Axel and Nolan,0,0,THB
